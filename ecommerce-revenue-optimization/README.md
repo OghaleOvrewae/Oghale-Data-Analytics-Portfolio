@@ -21,6 +21,10 @@ This project uses an online retail transactions dataset with:
 
 The dataset represents real-world e-commerce behaviour and is ideal for revenue and pricing analysis.
 
+### Dataset Availability
+The original dataset used in this project is not included in this repository due to file size limitations.
+However, the full analysis, preprocessing steps, and feature engineering workflow can be found in the Jupyter Notebook.
+
 ---
 
 ## 3. Tools & Techniques
